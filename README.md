@@ -35,7 +35,7 @@ Configuration du projet pour le développement
 1 - 
 Cloner ce dépôt
 
-git clone https://github.com/arlbibek/dVoting.git
+git clone https://github.com/Adrabalde/evote.git
 cd dVoting
 Run local Ethereum blockchain
 

@@ -68,7 +68,8 @@ Déployer un contrat intelligent sur le réseau blockchain (local) (c'est-à-dir
 
 truffle migrate
 
-Note: Utiliser truffle migrate --reset pour les redéploiements
+Note: Utiliser :  
+truffle migrate --reset           pour les redéploiements
 
 6- 
 Lancer le serveur de développement (frontend)

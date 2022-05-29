@@ -41,9 +41,9 @@ Cloner ce dépôt
 
 git clone https://github.com/Adrabalde/evote.git
 
-cd dVoting
+cd eVoting
 
-Run local Ethereum blockchain
+Exécutez la blockchain Ethereum locale
 
 
 2- 

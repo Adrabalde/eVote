@@ -39,7 +39,7 @@ Configuration du projet pour le développement
 Cloner ce dépôt
 
 
-git clone https://github.com/Adrabalde/evote.git
+git clone https://github.com/Adrabalde/eVote.git
 
 cd eVoting
 

@@ -64,7 +64,7 @@ Importer des comptes à l'aide de clés privées de ganache-cli vers l'extension
 5- 
 Déployer un contrat intelligent sur le réseau blockchain (local) (c'est-à-dire ganache-cli)
 
-# Sur le répertoire dVoting
+# Sur le répertoire eVoting
 
 truffle migrate
 

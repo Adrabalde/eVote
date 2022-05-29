@@ -22,7 +22,9 @@ Téléchargez et installez NodeJS à partir d'ici : https://nodejs.org/en/downlo
 Installez truffle et ganache-cli à l'aide du gestionnaire de packages de nœuds (npm)
 
 npm install -g truffle
+
 npm install -g ganache-cli
+
 Installer l'extension de navigateur metamask
 
 Téléchargez et installez le métamasque à partir d'ici : https://metamask.io/download/

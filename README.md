@@ -5,10 +5,10 @@ Système de vote électronique basé sur la blockchain
 
 Conditions :
 
-Node.js
-Truffle
-Ganache (Cli)
-Metamask (Extension de navigateur)
+[Node.js] : (https://nodejs.org/en/)
+Truffle : https://trufflesuite.com/truffle/
+Ganache (Cli) : https://github.com/trufflesuite/ganache
+[Metamask : (Extension de navigateur)](https://metamask.io/)
 
 1- 
 
